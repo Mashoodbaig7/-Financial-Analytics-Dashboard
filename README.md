@@ -1,6 +1,7 @@
 # Financial Analytics Dashboard
 
-![Financial Dashboard](https://i.ibb.co/Jt8MhQS/financial-dashboard-preview.png)
+![image](https://github.com/user-attachments/assets/23194f50-987b-4d17-8827-181c0451b356)
+
 
 ## 📊 Overview
 
@@ -232,9 +233,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact
 
 For questions or feedback, please contact:
-- Email: [your-email@example.com]
+- Email: mashoodbaig567@gmail.com
 - GitHub: [Mashoodbaig7](https://github.com/Mashoodbaig7)
 
 ---
 
-Developed with ❤️ by [Your Name]
+Developed with ❤️ by Mashood Baig
