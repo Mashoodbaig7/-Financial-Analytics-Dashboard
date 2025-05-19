@@ -152,7 +152,7 @@ const RevenueChart: React.FC<RevenueChartProps> = ({ data }) => {
           text: 'Revenue ($)',
           font: {
             size: 12,
-            weight: 'normal',
+            weight: 400, // Using numeric value instead of string
           },
           padding: {
             bottom: 10,
