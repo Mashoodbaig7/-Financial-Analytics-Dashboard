@@ -126,7 +126,7 @@ const ProfitMarginChart: React.FC<ProfitMarginChartProps> = ({ data }) => {
           text: 'Profit Margin (%)',
           font: {
             size: 12,
-            weight: 'normal',
+            weight: 400, // Using numeric value instead of string
           },
           padding: {
             top: 10,
@@ -140,7 +140,7 @@ const ProfitMarginChart: React.FC<ProfitMarginChartProps> = ({ data }) => {
         ticks: {
           font: {
             size: 11,
-            weight: 'bold',
+            weight: 700, // Using numeric value instead of string 'bold'
           },
         },
       },
